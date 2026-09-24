@@ -1,0 +1,7 @@
+{
+  "day": "02 / 20",
+  "title": "Canlı Piyasa İzleme Paneli",
+  "description": "Simüle fiyat akışını, favorileri ve üst eşik alarmlarını bir arayüzde izle.",
+  "mode": "Simüle fiyatlar · SSE akışı",
+  "note": "Kapsam ve ileri adımlar: PROJECT_DETAILS.pdf"
+}
